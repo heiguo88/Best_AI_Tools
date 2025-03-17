@@ -116,7 +116,6 @@ This curated guide provides a categorized list of over 100 essential AI tools ac
  While many AI tools offer broad capabilities, personalized AI content is emerging as a powerful way to create unique and engaging experiences. This is where AI truly becomes *personal*.
  
  71. [**Girlify.ai**](https://girlify.ai/): AI Girl Generator - Create your dream AI girl instantly. Upload your photo and a style reference to generate personalized images in any style you desire.
- 
  72. [**Lensa AI**](https://prisma-ai.com/lensa): AI-powered photo editing app with "Magic Avatars" feature that generates stylized portraits from user-uploaded selfies.
  73. [**Fotor AI Photo Generator**](https://www.fotor.com/ai-image-generator/): Online AI image generator that creates images from text prompts, with options for style and customization.
  74. [**MyHeritage AI Time Machine**](https://www.myheritage.com/ai-time-machine): AI tool that generates historical portraits of users based on uploaded photos, imagining them in different eras.
